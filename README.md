@@ -62,13 +62,9 @@ All data files are loaded, chunked, and embedded using Sentence Transformers bef
   - Structured answers (summary, drops, recommendations)
   - Sources from retrieved documents
 
-> **Note**: UI is kept minimal to emphasize backend logic and retrieval accuracy.
-
 ---
 
 ##  Screenshot
-> Add here if you choose to capture one from your Streamlit app:
 ```markdown
-![Demo Screenshot](./streamlit_demo.png)
-![image](https://github.com/user-attachments/assets/80e09af7-34f6-46b6-b219-9369949615ae)
+![Demo Screenshot](streamlit_demo.png)
 
