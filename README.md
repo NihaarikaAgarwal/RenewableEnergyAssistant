@@ -66,5 +66,5 @@ All data files are loaded, chunked, and embedded using Sentence Transformers bef
 
 ##  Screenshot
 ```markdown
-![Demo Screenshot](streamlit_demo.png)
+![Demo Screenshot](https://github.com/NihaarikaAgarwal/RenewableEnergyAssistant/blob/main/streamlit_demo.png?raw=true)
 
