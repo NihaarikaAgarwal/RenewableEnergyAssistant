@@ -1,6 +1,6 @@
 # Renewable Energy Assistant
 
-A Retrieval-Augmented Generation (RAG) application that uses solar power data and government policy documents to answer natural language questions about renewable energy trends, AC output fluctuations, and policy guidance. Built using **LangChain**, **Qdrant**, and **Hugging Face LLMs**, Integrated with **Time-series** analysis and deployed via **Streamlit**.
+A Retrieval-Augmented Generation (RAG) application that uses solar power data and government policy documents to answer natural language questions about renewable energy trends, AC output fluctuations, and policy guidance. Built using **LangChain**, **Qdrant**, and **Hugging Face LLMs**, Integrated with **Time-series** analysis and deployed via **Streamlit** and **ngrok**.
 
 ---
 
@@ -70,3 +70,5 @@ All data files are loaded, chunked, and embedded using Sentence Transformers bef
 > Add here if you choose to capture one from your Streamlit app:
 ```markdown
 ![Demo Screenshot](./streamlit_demo.png)
+![image](https://github.com/user-attachments/assets/80e09af7-34f6-46b6-b219-9369949615ae)
+
